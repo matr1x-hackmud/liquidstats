@@ -4,6 +4,10 @@
 
 ## To Use
 
+Download the latest release, unzip it and run qode.exe
+
+## as an actual Node.Js script
+
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)).
 
 From your command line:
